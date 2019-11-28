@@ -42,19 +42,6 @@ From branch : **_terraform-11/master_**
 
 
 
-From branch : **_terrform-12/master (Not yet started)_**
-
-- **_Code Pipline_**
-- **_Code Build_**
-- **_Code Deploy_**
-- **_VPC_**
-- **_S3_**
-- **_ECS CLuster (EC2 Model)_**
-- **_Auto Scalling Group_**
-- **_Launch Template_**
-- **_ECS Task Definition_**
-- **_ECS Service (nginx)_**
-- **_Application Load Balancer_**
 
 ---
 
