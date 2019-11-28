@@ -1,1 +1,0 @@
-data "aws_region" "demo_region_current" {}
