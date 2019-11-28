@@ -66,7 +66,7 @@ From branch : **_terrform-12/master (Not yet started)_**
 To use this module, add the following call to your code:
 
 ```tf
-git clone https://github.com/nitinda/terraform-aws-ecs-cd-code-pipeline.git?ref=terraform-11/master
+git clone https://github.com/nitinda/terraform-aws-ecs-cd-code-pipeline.git?ref=master
 cd terraform-aws-ecs-cd-code-pipeline
 export GITHUBTOKEN="*********"                      ## GitHub API Token
 make plan
